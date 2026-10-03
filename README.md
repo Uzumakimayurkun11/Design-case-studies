@@ -30,4 +30,4 @@ Case studies and design systems for my UI/UX portfolio projects. Focused on user
 
 ## 🤝 Connect With Me
 * **LinkedIn:** [Chiraag Mayur](https://www.linkedin.com/in/chirag-m-434271225/)
-* **Email:** cherahmayer@gmail.com
+* **Email:** chiraagkar@gmail.com
