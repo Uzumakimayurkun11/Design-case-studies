@@ -28,6 +28,14 @@ Case studies and design systems for my UI/UX portfolio projects. Focused on user
 
 ---
 
+## 💬 4. ChatApp
+* **Overview:** A modern, intuitive mobile messaging interface designed to streamline communication with a frictionless user experience.
+* **Tools Used:** Figma
+* **Core Focus:** High legibility, fast navigation, distraction-free inbox hierarchy, and clean bubble alignment.
+* **Figma Link:** [ChatApp Figma File](https://www.figma.com/design/gy1IXFeL7L9na5YabXdY5t/Practice--Chat-App-Homepage-Design--Copy-?node-id=107-2&t=jeZZ5GHaE46Xg3mD-1)
+
+---
+
 ## 🤝 Connect With Me
 * **LinkedIn:** [Chiraag Mayur](https://www.linkedin.com/in/chirag-m-434271225/)
 * **Email:** chiraagkar@gmail.com
