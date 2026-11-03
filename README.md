@@ -36,6 +36,14 @@ A comprehensive mobile UI/UX design case study featuring 24 guest and host scree
 
 ---
 
+### ☕ 5. Hearth Café
+A warm, inviting digital storefront and brand interface designed for a neighborhood café. Built to highlight artisanal menus, cozy ambiance, and seamless table reservations.
+
+* **[Live Preview ↗](https://uzumakimayurkun11.github.io/Hearth_cafe_design/)**
+* **[Figma Design File ↗](https://www.figma.com/design/BCkk9lTIovSvRyYn6ZCzY5/HEARTH-CAFE-DESIGN?node-id=21-136&t=nhohw4MT8n2qZ5E6-1)**
+* **[GitHub Repository ↗](https://github.com/Uzumakimayurkun11/Hearth_cafe_design)**
+
+
 ## 🤝 Connect With Me
 * **LinkedIn:** [Chiraag Mayur](https://www.linkedin.com/in/chirag-m-434271225/)
 * **Email:** chiraagkar@gmail.com
