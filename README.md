@@ -32,6 +32,8 @@ A comprehensive mobile UI/UX design case study featuring 24 guest and host scree
 * **Overview:** A modern, intuitive mobile messaging interface designed to streamline communication with a frictionless user experience.
 * **Tools Used:** Figma
 * **Core Focus:** High legibility, fast navigation, distraction-free inbox hierarchy, and clean bubble alignment.
+* **[Live Prototype Preview ↗](https://uzumakimayurkun11.github.io/Chatapp_design/#prototype)**
+* **[GitHub Repository ↗](https://github.com/Uzumakimayurkun11/Chatapp_design)**
 * **Figma Link:** [ChatApp Figma File](https://www.figma.com/design/gy1IXFeL7L9na5YabXdY5t/Practice--Chat-App-Homepage-Design--Copy-?node-id=107-2&t=jeZZ5GHaE46Xg3mD-1)
 
 ---
