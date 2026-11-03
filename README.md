@@ -24,6 +24,8 @@ A comprehensive mobile UI/UX design case study featuring 24 guest and host scree
 * **Overview:** An edtech and learning platform interface designed to help users track course progress and engage with learning material seamlessly.
 * **Tools Used:** Figma, Lovable
 * **Core Focus:** Dashboard layout organization, progress indicators, and content readability.
+* **[Live Prototype Preview ↗](https://uzumakimayurkun11.github.io/Skillup_design/)**
+* **[GitHub Repository ↗](https://github.com/Uzumakimayurkun11/Skillup_design)**
 * **Figma Link:** [SkillUp Figma File](https://www.figma.com/design/Z6vwR4THlbWFgvbW3A6vSL/skillup?node-id=80-17&t=LRy6JCpQrs11P5ke-1)
 
 ---
