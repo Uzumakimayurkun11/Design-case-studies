@@ -4,7 +4,7 @@ Case studies and design systems for my UI/UX portfolio projects. Focused on user
 
 ---
 
-### 🧳 [TripKit — Stays Marketplace](https://github.com/Uzumakimayurkun11/Design-case-studies)
+### 🧳 1. TripKit — Stays Marketplace
 A comprehensive mobile UI/UX design case study featuring 24 guest and host screens built for exploring stays, planning getaways, and managing properties.
 * **[Live Prototype Preview ↗](https://uzumakimayurkun11.github.io/Tripkit_stays_app/)**
 * **[Figma Design File ↗](https://www.figma.com/design/068XarewcMxPw1bP8Hrmhv/TripKit?node-id=27-874&t=SfgUvjOomwCMgmqq-1)**
