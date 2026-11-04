@@ -6,16 +6,18 @@ Case studies and design systems for my UI/UX portfolio projects. Focused on user
 
 ### 🧳 1. TripKit — Stays Marketplace
 A comprehensive mobile UI/UX design case study featuring 24 guest and host screens built for exploring stays, planning getaways, and managing properties.
-* **[Live Prototype Preview ↗](https://uzumakimayurkun11.github.io/Tripkit_stays_app/)**
 * **[Figma Design File ↗](https://www.figma.com/design/068XarewcMxPw1bP8Hrmhv/TripKit?node-id=27-874&t=SfgUvjOomwCMgmqq-1)**
-* **[GitHub Repository ↗](https://github.com/Uzumakimayurkun11/Design-case-studies)**
+* **[Live Prototype Preview ↗](https://uzumakimayurkun11.github.io/Tripkit_stays_app/?gallery=1)**
+* **[GitHub Repository ↗](https://github.com/Uzumakimayurkun11/Tripkit_stays_app)**
   
 ---
 
-## 💙 2. CARELY
-* **Overview:** A healthcare and care-management focused interface built to prioritize accessibility, empathy, and clear status tracking.
+## 💙 2. Carely
+* **Overview:** A healthcare and care-management mobile interface designed to prioritize accessibility, empathy, and clear status tracking.
 * **Tools Used:** Figma, Lovable
 * **Core Focus:** Clean typography scales, high contrast for readability, and simplified user journeys for sensitive workflows.
+* **[Live Prototype Preview ↗](https://uzumakimayurkun11.github.io/Carely_design/?gallery=1#screens)**
+* **[GitHub Repository ↗](https://github.com/Uzumakimayurkun11/Carely_design)**
 * **Figma Link:** [CARELY Figma File](https://www.figma.com/design/ZvWvk2GKtJecKweoOpnwOX/CARELY?node-id=42-82&t=Ry5fUaxTnTr37p9l-1)
 
 ---
